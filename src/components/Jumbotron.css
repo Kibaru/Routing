@@ -1,0 +1,9 @@
+.jumbotron{
+  background-image: url(../images/my-site.jpg);
+  color: white;
+  margin-top: 0;
+  background-position: center right;
+  min-height: 170px;
+  margin-bottom: 20px;
+  text-align: center;
+}
